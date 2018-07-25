@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: net.serenity-bdd:serenity-screenplay-webdriver:1.9.9">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-screenplay-webdriver/1.9.9/serenity-screenplay-webdriver-1.9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

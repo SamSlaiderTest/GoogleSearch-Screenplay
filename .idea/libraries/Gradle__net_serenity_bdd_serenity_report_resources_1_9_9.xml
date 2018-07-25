@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: net.serenity-bdd:serenity-report-resources:1.9.9">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-report-resources/1.9.9/serenity-report-resources-1.9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
